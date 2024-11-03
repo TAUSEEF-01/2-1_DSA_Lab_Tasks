@@ -1,0 +1,1 @@
+{"name":"Local: 24_A","url":"d:\\Downloads\\DUCSE Documents\\2nd year\\DSA\\Lab\\lab_6\\24_A.cpp","tests":[{"id":1714506975778,"input":"6\n1 9 3 5 4 7","output":"[1,3,4,5,7,9]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Downloads\\DUCSE Documents\\2nd year\\DSA\\Lab\\lab_6\\24_A.cpp","group":"local","local":true}
